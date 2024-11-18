@@ -1,0 +1,4 @@
+Removed H100 image because of negative values.
+Removed Sp5 image b/c target was not in FOV.
+Replaced Sp8 image with old one I had downloaded from Varda.
+Removed S7 image because of negative values.
